@@ -7,7 +7,7 @@ Por motivos de agenda laboral y una sobresaturación de trabajo durante la segun
 
 En esta visualización generé una gráfica de dona para mostrar los principales estados productores de durazno. La gráfica fue hecha con `ggplot2` y la postproducción en **Keynote**. La fuente principal fueron los datos del SIAP. En 2020, el estado de Chihuahua produjo **uno de cada cinco** duraznos en México.
 
-![](Day 01. Part to whole/peach_plot/peach_plot.001.png)
+![](Day01_Part_to_whole/peach_plot/peach_plot.001.png)
 
 ## Day 02. Pictogram
 
@@ -16,7 +16,7 @@ a) la gran proporción de alumnos a favor de que el presidente se mantuviera en 
 b) el **bajísimo** nivel de participación obtenido.  
 Esto ya anticipaba el bajo nivel de participación en el ejercicio real (y en otros procesos convocados por el gobierno).
 
-![](Day 02. Pictogram/grafica_dia_2/grafica_dia_2.001.png)
+![](Day02_Pictogram/grafica_dia_2/grafica_dia_2.001.png)
 
 ## Day 03. Historical
 
@@ -34,13 +34,13 @@ En *Historical*, y preparando una clase para semanas posteriores, hice una **lí
 
 > En resumen, la línea del tiempo de la visualización es una cadena de innovaciones que combinan ciencia, diseño y propósito público. Ver bien es entender mejor.
 
-![](Day 03. Historical/imagen_3/imagen_3.001.png)
+![](Day03_Historical/imagen_3/imagen_3.001.png)
 
 ## Day 04. Floral
 
 Con datos del SIAP, hice una gráfica radial donde la altura de cada “pétalo” representa el valor total de la producción de cada tipo de flor registrada en la base.
 
-![](Day 04. Floral/imagen_floral/grafica_flores_04.png)
+![](Day04_Floral/imagen_floral/grafica_flores_04.png)
 
 ## Day 05. Slope
 
@@ -57,28 +57,28 @@ Una pendiente cercana a cero sugiere estabilidad.
 
 > **Nota metodológica.** La regresión lineal es un resumen descriptivo —útil para comparar entidades de forma rápida—, pero no es el mejor método para series con estacionalidad o cambios de régimen. Debe interpretarse como señal de tendencia, no como pronóstico de escasez.
 
-![](Day 05. Slope/grafica_pendientes.png)
+![](Day05_Slope/grafica_pendientes.png)
 
 ## Day 06. OWID
 
 Para este día se invitó a visualizar datos de *Our World in Data*. Elegí la **vacunación contra COVID-19** en el mundo hasta abril de 2022. Con estos datos elaboré un **cartograma de Dorling**: el tamaño de cada círculo representa el número de vacunas aplicadas, relacionado tanto con la inversión pública como con el tamaño de la población de cada país.
 
-![](Day 06. OWID/mapa_vacunas.png)
+![](Day06_OWID/mapa_vacunas.png)
 
 ## Day 07. Physical
 
 Dadas las características **físicas** de los **Pokémon**, utilicé la **PokéAPI** para graficar la relación entre **peso** y **altura** y obtener la distribución de estas variables para los Pokémon disponibles hasta la fecha (generación de Galar).
 
-![](Day 07. Physical/g7.png)
+![](Day07_Physical/g7.png)
 
 ## Day 08. Mountains
 
 Con el mismo estilo de la visualización anterior, se muestra la distribución en **latitud** y **longitud** de las montañas a lo largo de México. Se observa **cómo** se concentran en el centro del país a lo largo del **eje X** y **cómo** aparecen dos grandes grupos en el **eje Y** por las montañas del norte y el **Eje Neovolcánico Transversal**.
 
-![](Day 08. Mountains/g8.png)
+![](Day08_Mountains/g8.png)
 
 ## Day 09. Statistics
 
 Por las limitaciones de recursos para organizar la *revocación de mandato*, se abrieron menos casillas y aumentó el número de votantes por casilla abierta. Dado que la participación fue baja, no representó un problema operativo. Para el estado de Morelos analicé cuánta gente tendría que ir a votar por sección: en promedio, aumentó en **poco más de 2,000 personas** por sección.
 
-![](Day 09. Statistics/FP9vtcLWUAUtZYw.jpeg)
+![](Day09_Statistics/FP9vtcLWUAUtZYw.jpeg)
